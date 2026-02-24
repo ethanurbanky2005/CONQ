@@ -1,0 +1,182 @@
+Jason: Hi my name is Jason
+
+Ethan: Hi my name is Ethan
+
+Ibby: Hi My name is Ibby, and yeah that’s me (points at bloody photo). Concussed, bleeding, but don’t worry that’s not why I lost my hair. 
+
+→  Ethan Video starts then fades inwards..
+
+Ethan: Did you see that lifeless kid on the ground, yeah that was me, but if you payed me a thousand dollars to tell you what happened there’s no way I could
+
+Jason: And that’s me, not bloody, not lifeless, still got to say yes to the prom but let’s just say prom tackled me. 
+
+Ethan: And in a way our concussions tackled us, much like it does to over 400,000 Canadians annually. 
+
+Jason: Yeah that’s a lot of us and yeah it affects us all differently.
+
+Ibby: Yet the system tries to address the invisible objectively.
+
+Ethan: And all we’re left is uncertainty. 
+
+Jason: Will I be okay?
+
+Ethan: How will this affect me long term?
+
+Ibby: When will I be me again? That’s a question I still ask myself to this day. I asked a few doctors too, but a system to meant to address thousands of visible ailments isn’t one equipped to answer the questions they can’t see the answers to.
+
+Jason: But what if you could see the invisible? 
+→ J put’s on glasses
+     Shifts to POV, looking at I, E, cameraman
+     Apple Vision UI overlay, showing conq metrics
+
+Ethan: Conq aims to accurately measure your invisible biometric signals like …
+Pupil response dynamics
+
+
+Eye movement stability
+
+
+Blink variability
+
+
+Head motion variability
+
+
+Heart rate variability
+
+
+These signals change when the brain is under strain.
+Instead of guessing how you feel, CONQ converts these patterns into objective metrics like:
+Cognitive Load Score
+
+
+Autonomic Stability Index
+
+
+ And your Stress Reactivity Profile
+
+
+Not to diagnose.
+Not to replace doctors.
+But to give individuals and clinicians measurable insight into cognitive strain and recovery. 
+This insight empowers Canadians to understand their mental state,
+identify where they’re struggling,
+and make informed choices that reduce stress and patterns of sedentary behaviour.
+Concussed or not, activity remains one of the most powerful tools for long-term health.
+CONQ helps make the neurological benefits of activity visible —
+ so people aren’t just told to move more,
+ they can see why it matters.
+As this data streams from the glasses, it lives here.
+Each day, users receive a clear snapshot of their cognitive load and autonomic stability.
+Over time, trends begin to form.
+You can see how sleep, stress, and activity impact neurological strain.
+From here, users can log symptoms, follow guided recovery plans, and access cognitive exercises designed to build resilience.
+This turns raw biometric data into daily direction.
+And even without the glasses, users can engage with the app to build awareness and prioritize brain health.
+
+Many companies are exploring brain optimization and wearable health technology. 
+Some focus on improving cognitive health through Clinical tools like the NPI 200 and tablet-based concussion platforms like EyeGuide through the approach of improving assessment in controlled settings. 
+Others focus on sleep, recovery, or general nervous system monitoring like our more indirect competitors platforms like Oura and WHOOP, which have helped shift health tracking toward deeper physiological awareness. 
+What separates CONQ and allows us to squeeze perfectly into these markets is access, application and timing. 
+While others measure general wellness signals or conduct isolated assessments, we are specifically targeting the measurement and improvement of functional brain health directly and live, outside of a clinic. 
+CONQ is grounded in evolving research on how stress develops, accumulates, and influences long-term health.
+Just as the traditional “lights off and rest” approach to concussion has shifted toward active recovery, our understanding of stress and anxiety has also evolved. We now recognize that unmanaged mental strain can be a significant barrier to physical activity and recovery.
+Advances in portable sensing now allow these measurements to be captured continuously, in everyday environments.
+CONQ brings together modern research and the technology finally capable of applying it.
+Beyond hardware and data, we are building a platform that brings together individuals recovering from concussion and those focused on optimizing cognitive performance.
+A space where recovery and peak performance exist on the same continuum, helping drive a cultural shift toward proactive brain health.
+Our biggest differentiator however is that we are able to bridge a specific clinical need, concussion recovery, with a measurement framework that extends to general wellness.
+What begins as a focused solution becomes a scalable health tool.
+These competitors also highlight the markets we are positioned to address, including the global concussion market, the sports medicine market, and the broader wearable health industry.
+*** BUBBLES SHOW TAM, SOM, SAM
+
+These markets are not static. Concussion awareness is rising, sports medicine continues to expand, and wearable health remains one of the fastest-growing segments in consumer technology.
+
+*** Projected 2031 On Screen 
+This market is exciting, but many ventures in this space struggle.
+They start too broad.
+ They overengineer the technology.
+ They attempt to solve everything at once.
+ And they build products that are ultimately too expensive for everyday consumers.
+With that in mind, we have structured our go-to-market strategy in a way that smarts small and aims to solve our target problem effectively and affordably. 
+
+Through outreach with leaders in professional sport, including representatives connected to the Toronto Blue Jays ownership group and the Northern Super League, we identified junior hockey as the strongest pilot environment.
+The Ontario Hockey League represents a strategic entry point.
+Hockey carries one of the highest concussion incidence rates in Canadian sport, making the need immediate and measurable.
+Teams function as concentrated buyers, reducing customer acquisition costs and allowing structured implementation.
+League-level adoption also builds institutional credibility, enabling validation in a high-performance environment before broader expansion.
+This phased approach allows us to refine the system, validate real-world use, and scale intentionally.
+ Upon successful validation through our pilot program, CONQ is designed to scale.
+Initial conversations with overseas manufacturing partners have provided realistic projections on per-unit production costs at volume. The primary requirement moving forward is validated demand to justify upfront tooling and capital deployment.
+As the system is implemented within the OHL and other pilot environments, we will continue refining the sensor modeling and software through real-world data. This staged rollout allows the technology to mature before broad consumer expansion.
+Our initial commercialization model is enterprise-first.
+We will partner with organized leagues, institutions, and performance programs, tailoring the system to structured environments where implementation can be controlled and validated.
+From there, we expand outward into broader consumer distribution. This approach reduces risk, strengthens credibility, and allows the product to evolve intentionally before mass adoption.
+The initial pilot run will consist of 3D-printed frames with off-the-shelf components sourced directly from suppliers and assembled in-house for validation and testing. Manufacturing CONQ is not speculative. However, the pilot phase is essential to justify the upfront capital required for scaled foreign production and regulatory certifications, including IC and FCC approval.
+At an initial production run of 1,000 units, the full hardware build including dual infrared eye-tracking cameras, IMU, PPG sensor, custom PCB, battery, frame, assembly, and packaging is projected at approximately 195 to 210 dollars per unit. Packaging at volume adds between 4 and 7 dollars per unit. Sea freight averages 2 to 4 dollars per unit, duties range between 0 and 7 percent depending on classification, fulfillment averages 3 to 6 dollars per unit, and payment processing contributes approximately 17 dollars on a 599 dollar sale. Including a 10 to 15 dollar warranty reserve, total landed cost at the 1,000 unit level is projected at approximately 220 to 240 dollars per unit.
+At a retail price of 599 dollars, CONQ maintains gross margins between 60 and 63 percent, with clear room for margin expansion as production scales.
+In early rollouts, this margin is not profit. It is fuel. It is immediately reinvested into research and development, clinical validation, software refinement, and manufacturing optimization. The objective is not short-term return. The objective is to build a platform that improves with every deployment and becomes more accessible over time.
+
+
+Alternative Script:
+Hey ibby do you think 
+
+
+JASON: Hey, my name is Jason
+ETHAN: my name is Ethan
+IBBY: and my name is Ibby
+*Insert picture of bloody ibby, not sure the best way to do this but the picture must be inserted*
+IBBY: That’s me. Concussed, bleeding. Don’t worry — that’s not why I lost my hair.
+*Insert the video of Ethan’s concussion, not sure the best way to do this but the video must be inserted*
+ETHAN: That lifeless kid? That was me. And if you paid me a thousand dollars to tell you what happened right there, there is no way I could.
+*Displays Jason promposal picture*
+JASON: And that’s me. Not bloody, not lifeless — still got to say yes to prom. But let’s just say prom tackled me.
+ETHAN: And in a way, our concussions tackled us. Like they tackle over 400,000 Canadians every year.
+*Ethan gets tackled on the rugby pitch, camera follows the inertia of the hit to transition into next line*
+JASON: Yeah. A lot of us. And it affects every one of us differently.
+*Jason is the focus point and after or when he says the line “affects every one of us differently”, the background changes from the rugby pitch, to the football field to the hospital but the focal point of jason remain the same showing the difference and unity of this type of injury, jason walks behind a wall getting removed from the picture while ibby crosses his path making a smooth talking transition*
+IBBY: Yet the system tries to address the invisible objectively. And all we’re left with is uncertainty.
+*Making the hospital very obvious to show the actual system that ibby is talking about he centers himself, while jason re-enters the frame to say the next bar*
+JASON: Will I be okay?
+*Ethan now enters the frame to show us 3 standing together*
+ETHAN: How will this affect me long term?
+IBBY: When will I be me again? That’s a question I still ask myself to this day. I asked a few doctors too. But a system built to address thousands of visible ailments isn’t equipped to answer the questions it cannot see.
+JASON: But what if you could see the invisible?
+*Glasses POV-  Stats from glasses overlay on POV*
+JASON: CONQ is going to help Canadian athletes recovering from concussion — young people like us — who are dealing with a recovery system that has no objective, continuous way to see what the brain is experiencing. Restoring confidence to move, reducing sedentary behavior, and driving measurable physical activity in Canadians.
+ETHAN: This matters because the absence of data forces unnecessary sedentary recovery. And we know now that inactivity after a concussion worsens anxiety, depression, and long-term physical decline. Evidence is clear: early, guided movement accelerates recovery. But without data, nobody — not the patient, not the clinician — knows when it is safe.
+IBBY: The root cause is simple. We have never had a real-time, objective window into neurological strain outside of a clinic. Appointments give snapshots. We need a live stream.
+ETHAN: CONQ accurately measures your invisible biometric signals: pupil response dynamics, eye movement stability, blink variability, head motion variability, and heart rate variability. These signals change when the brain is under strain.
+IBBY: Instead of guessing how you feel, CONQ converts these patterns into three objective metrics: a Cognitive Load Score, an Autonomic Stability Index, and a Stress Reactivity Profile. Not to diagnose. Not to replace your doctor. But to give individuals and clinicians a measurable, daily window into cognitive strain and recovery.
+JASON: As this data streams from the glasses, it lives here. Each day, you receive a clear snapshot of where your brain is. Over time, trends emerge — you see how sleep, stress, and activity interact with your neurological strain. From here, you follow guided return-to-activity protocols, log symptoms, and access cognitive exercises designed to build resilience. This turns raw biometric data into daily direction. You are not just told to move more. You can see exactly why it matters.
+ETHAN: Many companies are exploring brain health and wearable technology. Clinical tools like the NPI 200 and tablet-based platforms like EyeGUIDE focus on improving assessment — but only inside controlled clinic settings. General wellness platforms like WHOOP and Oura have shifted health tracking toward deeper physiological awareness, but they measure broad recovery signals, not brain-specific strain.
+IBBY: Nobody sits where CONQ sits: continuous, multi-modal neurological monitoring, validated against the Amsterdam Consensus 2023 return-to-activity protocols, available outside the clinic at a consumer price point. That is the gap.
+JASON: And why us, not them? Building this requires multi-sensor fusion across eye tracking, IMU, and PPG — hardware that is genuinely difficult to miniaturize. It requires clinical protocol expertise to make the data meaningful. And it requires trust from the sports medicine community to make it adoptable. We are building all three simultaneously. That barrier is why this hasn’t been built yet.
+ And why we are building it now.
+ETHAN: CONQ generates revenue through three streams. Hardware at $599 retail — 60 to 63 percent gross margins — with room to expand as production scales. A $9.99 per month app subscription for advanced features after the first year included with the device. And institutional licensing to leagues, clinics, and performance programs.
+IBBY: Unit economics: lifetime value of $698 against a customer acquisition cost of $120 — a 5.8 times LTV-to-CAC ratio. Our enterprise-first approach replaces mass advertising spend with concentrated institutional partnerships, keeping acquisition efficient while building clinical credibility from day one.
+ETHAN: Many ventures in this space fail because they start too broad, overengineer early, and build products too expensive for everyday consumers. We do the opposite. We start small, solve the target problem well, and scale intentionally.
+IBBY: Our entry point is the Ontario Hockey League. Hockey carries one of the highest concussion incidence rates in Canadian sport at 5.05 per 100 player-games. Teams function as concentrated buyers, cutting customer acquisition costs and enabling structured validation. Through our connections to the Toronto Blue Jays ownership group and the Northern Super League, we have identified our first three pilot targets: the Windsor Spitfires, London Knights, and Oshawa Generals.
+JASON: League-level validation builds institutional credibility. From there, we expand: CHL, NHL, U Sports, and then direct-to-consumer supported by digital performance marketing and athletic therapist referral networks.
+ETHAN: The global concussion management market: $6.58 billion today. Canada’s serviceable market: $222 million. Sports wearables are projected to exceed $61 billion by 2031. And Rowan’s Law is creating regulatory demand that no consumer product currently meets.
+JASON: Now more than ever, advances in artificial intelligence have lowered the barrier to building sophisticated health systems. What once required institutional infrastructure can now be built by focused technical teams.
+ETHAN: Ethan brings deep experience in machine learning and AI modeling, with internship experience in financial technology and a formal background in data science.
+IBBY: Ibby brings experience inside a glasses-based wearable startup focused on enterprise applications. He has also led the design and development of an AI-driven alternative gambling platform, integrating behavioral modeling and statistical systems into a live product environment.
+ETHAN: Jason contributes domain expertise in concussion research through past projects in the space, alongside a strong entrepreneurial background in marketing and media ventures.
+IBBY: Together, we combine multi-sensor hardware integration, AI modeling, and concussion-specific protocol knowledge. That alignment allows us to move from concept to validated system.
+ETHAN: A key gap we are actively addressing is formal clinical validation. We are pursuing structured academic partnerships to rigorously evaluate our metrics and strengthen our team with external clinical expertise.
+JASON: So Why now? The Amsterdam Consensus has defined the clinical need. Portable sensing has made it affordable. And Rowan’s Law is creating regulatory pressure that demands an answer. The science, the technology, and the legislation have all arrived at the same moment. That moment is now.
+JASON: CONQ.
+ETHAN: See the invisible.
+IBBY: Move sooner.
+JASON: Recover better.
+
+
+Jason Renaud, 
+ETHAN PLAYING SLAP SHOT- 
+
+DUDE we gotta work on our go to market strategy 
+What do you mean this is our go to market strategy 
+
+
+Aaaand Done, you guys wanna check this out - CONQ LOGO is shown on TV appears 
