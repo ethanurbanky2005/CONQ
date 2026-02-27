@@ -33,7 +33,7 @@ const TEAM_MEMBERS = [
     name: "Jason",
     role: "Clinical & Research Advisor",
     icon: FlaskConical,
-    photo: null as string | null,
+    photo: "/team/Jason.jpeg",
     bio: "Domain expertise in concussion research through past projects in the space, alongside a strong entrepreneurial background in marketing and media ventures. Contributes protocol knowledge and institutional relationship development.",
     expertise: ["Concussion Research", "Marketing", "Partnerships"],
   },
