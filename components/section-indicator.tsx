@@ -6,14 +6,18 @@ import { AnimatePresence, motion } from "framer-motion"
 const SECTIONS = [
   { id: "hero", label: "01 · Intro" },
   { id: "problem", label: "02 · Problem" },
-  { id: "why-now", label: "03 · Why Now" },
-  { id: "solution", label: "04 · Solution" },
-  { id: "market", label: "05 · Market" },
-  { id: "strategy", label: "06 · Strategy" },
-  { id: "economics", label: "07 · Economics" },
-  { id: "team", label: "08 · Team" },
-  { id: "roadmap", label: "09 · Roadmap" },
-  { id: "closing", label: "10 · Close" },
+  { id: "solution", label: "03 · Solution" },
+  { id: "app", label: "04 · App" },
+  { id: "day-to-day", label: "05 · Day-to-Day" },
+  { id: "conq-flow", label: "06 · CONQ Flow" },
+  { id: "why-now", label: "07 · Why Now" },
+  { id: "competitive", label: "08 · Competitive" },
+  { id: "market", label: "09 · Market" },
+  { id: "strategy", label: "10 · Strategy" },
+  { id: "economics", label: "11 · Economics" },
+  { id: "team", label: "12 · Team" },
+  { id: "roadmap", label: "13 · Roadmap" },
+  { id: "closing", label: "14 · Close" },
 ]
 
 export function SectionIndicator() {

@@ -41,8 +41,8 @@ const TEAM_MEMBERS = [
 
 const MILESTONES = [
   { label: "Team", done: true },
-  { label: "Prototype", done: true },
-  { label: "Pilot Agreements", done: true },
+  { label: "Prototype modeled", done: true },
+  { label: "Pilot designed", done: true },
   { label: "Clinical Validation", done: false },
   { label: "Market Entry", done: false },
 ]

@@ -530,11 +530,10 @@ export function MarketSection() {
         <SectionLabel>Market Opportunity</SectionLabel>
         <SectionHeading>A Multi-Billion Dollar Opportunity</SectionHeading>
         <SectionBody className="mt-4">
-          The global concussion management market sits at $6.58 billion today.
-          {"Canada's"} serviceable market: $222 million. Sports wearables are projected
-          to exceed $61 billion by 2031. And {"Rowan's"} Law is creating regulatory
-          demand that no consumer product currently meets, making the need
-          immediate and the timing urgent.
+          The global concussion management market sits at $6.58 billion today. {"Canada's"}
+          serviceable market: $222 million. Sports wearables are projected to exceed
+          $61 billion by 2031. And {"Rowan's"} Law is creating regulatory demand that no
+          consumer product currently meets, making the need immediate and the timing urgent.
         </SectionBody>
       </ScrollReveal>
 

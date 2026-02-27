@@ -584,10 +584,15 @@ export function SolutionSection() {
           </SectionHeading>
           <SectionBody className="mt-4">
             CONQ is a pair of smart glasses equipped with dual infrared eye-tracking
-            cameras, an IMU, and a PPG sensor, capturing five distinct biometric
-            markers continuously, outside the clinic. Not to diagnose. Not to replace
-            doctors. But to give individuals and clinicians a measurable, daily window
-            into cognitive strain and recovery.
+            cameras, an IMU, and a PPG sensor, capturing five trackable markers
+            continuously, outside the clinic.
+            <br />
+            <br />
+            The information glasses provide becomes actionable through three clear
+            outputs: Cognitive Load Score, Autonomic Stability Index, and Stress
+            Reactivity Profile. Not to diagnose. Not to replace doctors. But to
+            give individuals and clinicians a measurable, daily window into
+            cognitive strain and recovery.
           </SectionBody>
         </ScrollReveal>
 
@@ -650,6 +655,12 @@ export function SolutionSection() {
           <p className="reveal-on-scroll mt-4 text-center text-xs text-slate-400">
             Tap a marker to explore its measurement methodology
           </p>
+        </ScrollReveal>
+
+        <ScrollReveal className="mt-14">
+          <h3 className="text-2xl font-semibold tracking-tight text-navy md:text-3xl">
+            Metrics That Guide Daily Decisions
+          </h3>
         </ScrollReveal>
 
         {/* Metric cards */}

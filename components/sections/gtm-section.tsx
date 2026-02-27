@@ -135,8 +135,8 @@ const phases: PhaseData[] = [
     summary:
       "Direct-to-consumer expansion supported by digital performance marketing and athletic therapist referral networks. What begins as a focused concussion solution becomes a scalable cognitive health tool.",
     details: [
-      "Direct-to-consumer launch at $599 retail with 60-63% gross margins",
-      "Subscription-based ongoing monitoring ($9.99/mo)",
+      "Direct-to-consumer launch modeled around $599 retail with a 50-63% gross margin band",
+      "Subscription-based ongoing monitoring modeled at $9.99-$14.99/mo",
       "Multi-sport expansion: football, rugby, lacrosse",
       "Community platform bridging recovery and peak performance",
     ],
@@ -478,10 +478,13 @@ export function GtmSection() {
         <SectionHeading>Start Small. Solve Well. Scale Intentionally.</SectionHeading>
         <SectionBody className="mt-4">
           Many ventures in this space fail because they start too broad, overengineer early,
-          and build products too expensive for consumers. We do the opposite. Through
-          connections to the Toronto Blue Jays ownership group and the Northern Super League,
-          {"we've"} identified junior hockey as the strongest pilot environment, starting with the
-          Windsor Spitfires, London Knights, and Oshawa Generals.
+          and build products too expensive for consumers. We do the opposite.
+          <br />
+          <br />
+          CONQ will begin with a concentrated pilot starting with select OHL teams such as
+          the Windsor Spitfires, London Knights, and Oshawa Generals allowing us to validate
+          the system in a real-world setting, refine our protocols, and build clinical and
+          organizational trust before expanding into broader athletic and consumer markets.
         </SectionBody>
       </ScrollReveal>
 

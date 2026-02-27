@@ -107,8 +107,9 @@ export function HeroSection() {
               transition={{ duration: 0.7, delay: 0.95 }}
               className="mt-4 max-w-lg text-lg leading-relaxed text-slate-500"
             >
-              CONQ is smart glasses that give athletes and clinicians a real-time
-              window into neurological strain and recovery.
+              CONQ is a real-time neurological optimization system.
+              <br />
+              Built to make invisible strain measurable — and recovery precise.
             </motion.p>
 
             <motion.a

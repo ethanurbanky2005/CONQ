@@ -254,6 +254,16 @@ export function CompetitiveSection() {
           not brain-specific strain. CONQ is continuous, multi-modal neurological monitoring,
           validated against Amsterdam Consensus 2023 return-to-activity protocols, available
           outside the clinic at a consumer price point. That is the gap.
+          <br />
+          <br />
+          After injury, athletes are told to {"'"}monitor symptoms{"'"} and {"'"}ease back
+          gradually.{"'"} But {"there's"} no continuous signal guiding those decisions.
+          <br />
+          Clinical systems stay in the clinic. Wellness wearables track general
+          recovery — not the brain.
+          <br />
+          We built CONQ to live in the space between — delivering real-time
+          neurological intelligence in the moments that actually matter.
         </SectionBody>
       </ScrollReveal>
 

@@ -819,6 +819,9 @@ export function AppShowcaseSection() {
           stability. Over time, trends form, and even without the glasses,
           users engage with the app to build awareness and prioritize brain health.
         </SectionBody>
+        <p className="mt-4 text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">
+          Future Feature: Scan QR to try
+        </p>
       </ScrollReveal>
 
       <ScrollReveal>
@@ -852,6 +855,9 @@ export function AppShowcaseSection() {
 
             {/* Metric badges */}
             <div className="mt-3 flex flex-wrap gap-2 px-1">
+              <p className="w-full text-xs font-semibold uppercase tracking-[0.18em] text-slate-400">
+                Metrics That Guide Daily Decisions
+              </p>
               {[
                 { icon: BarChart3, label: "Cognitive Load", value: "76/100" },
                 { icon: Activity, label: "Autonomic Index", value: "74%" },

@@ -5,6 +5,7 @@ import { HeroSection } from "@/components/sections/hero-section"
 import { ProblemSection } from "@/components/sections/problem-section"
 import { SolutionSection } from "@/components/sections/solution-section"
 import { AppShowcaseSection } from "@/components/sections/app-showcase-section"
+import { DayToDaySection } from "@/components/sections/day-to-day-section"
 import { CompetitiveSection } from "@/components/sections/competitive-section"
 import { MarketSection } from "@/components/sections/market-section"
 import { GtmSection } from "@/components/sections/gtm-section"
@@ -23,7 +24,6 @@ export default function Page() {
       <HeroSection />
 
       <ProblemSection />
-      <WhyNowSection />
 
       <QuoteBreaker
         quote="What if you could see the invisible?"
@@ -32,6 +32,8 @@ export default function Page() {
 
       <SolutionSection />
       <AppShowcaseSection />
+      <DayToDaySection />
+      <WhyNowSection />
 
       <Divider label="Landscape" />
 
